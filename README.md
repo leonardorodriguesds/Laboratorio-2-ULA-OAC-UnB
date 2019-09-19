@@ -21,3 +21,6 @@ medida que for sendo feito).
 ## Quartus Prime
 Leia o arquivo [Quartus-Prime.pdf](https://github.com/leonardorodriguesds/Laboratorio-2-ULA-OAC-UnB/blob/master/Quartus-Prime.pdf "Quartus-Prime.pdf") para instruções de utilização do quartus, bem como de configuração dos arquivos do laboratório.
 
+
+## Verilog
+O arquivo [Oficina.pdf](https://github.com/leonardorodriguesds/Laboratorio-2-ULA-OAC-UnB/blob/master/Oficina.pdf "Oficina.pdf") contem informações interessantes sobre o **Verilog**.
