@@ -19,5 +19,5 @@ medida que for sendo feito).
 - Linguagem de Descrição de Hardware (LDL).
 
 ## Quartus Prime
-Leia o arquivo [Quartus-Prime.pdf](http://# "Quartus-Prime.pdf") para instruções de utilização do quartus, bem como de configuração dos arquivos do laboratório.
+Leia o arquivo [Quartus-Prime.pdf](https://github.com/leonardorodriguesds/Laboratorio-2-ULA-OAC-UnB/blob/master/Quartus-Prime.pdf "Quartus-Prime.pdf") para instruções de utilização do quartus, bem como de configuração dos arquivos do laboratório.
 
